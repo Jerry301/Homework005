@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		068ECEEE274B24C400A48CCE /* umbrella.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 068ECEED274B24C400A48CCE /* umbrella.jpeg */; };
 		06A9B8512748E82F00498610 /* Homework005App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A9B8502748E82F00498610 /* Homework005App.swift */; };
 		06A9B8532748E82F00498610 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A9B8522748E82F00498610 /* ContentView.swift */; };
 		06A9B8552748E83100498610 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06A9B8542748E83100498610 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		068ECEED274B24C400A48CCE /* umbrella.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = umbrella.jpeg; path = "../../Homework005(Ref)/umbrella.jpeg"; sourceTree = "<group>"; };
 		06A9B84D2748E82F00498610 /* Homework005.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homework005.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06A9B8502748E82F00498610 /* Homework005App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homework005App.swift; sourceTree = "<group>"; };
 		06A9B8522748E82F00498610 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 				06A9B8502748E82F00498610 /* Homework005App.swift */,
 				06A9B8522748E82F00498610 /* ContentView.swift */,
 				06A9B8542748E83100498610 /* Assets.xcassets */,
+				068ECEED274B24C400A48CCE /* umbrella.jpeg */,
 				06A9B8562748E83100498610 /* Preview Content */,
 			);
 			path = Homework005;
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				068ECEEE274B24C400A48CCE /* umbrella.jpeg in Resources */,
 				06A9B8582748E83100498610 /* Preview Assets.xcassets in Resources */,
 				06A9B8552748E83100498610 /* Assets.xcassets in Resources */,
 			);
